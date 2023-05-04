@@ -1,3 +1,79 @@
+  @font-face {
+    font-family: 'vw-head';
+    font-weight: 400;
+    font-display: swap;
+    src: url('https://www.volkswagen.fr/idhub/etc/clientlibs/vwa-ngw18/ngw18-frontend/clientlibs/statics/fonts/vwhead-regular.woff2') format('woff2'),
+    url('https://www.volkswagen.fr/idhub/etc/clientlibs/vwa-ngw18/ngw18-frontend/clientlibs/statics/fonts/vwhead-regular.woff') format('woff');
+  }
+
+  @font-face {
+    font-family: 'vw-head';
+    font-weight: 700;
+    font-display: swap;
+    src: url('https://www.volkswagen.fr/idhub/etc/clientlibs/vwa-ngw18/ngw18-frontend/clientlibs/statics/fonts/vwhead-bold.woff2') format('woff2'),
+    url('https://www.volkswagen.fr/idhub/etc/clientlibs/vwa-ngw18/ngw18-frontend/clientlibs/statics/fonts/vwhead-bold.woff') format('woff');
+  }
+
+  @font-face {
+    font-family: 'vw-head';
+    font-weight: 200;
+    font-display: swap;
+    src: url('https://www.volkswagen.fr/idhub/etc/clientlibs/vwa-ngw18/ngw18-frontend/clientlibs/statics/fonts/vwhead-light.woff2') format('woff2'),
+    url('https://www.volkswagen.fr/idhub/etc/clientlibs/vwa-ngw18/ngw18-frontend/clientlibs/statics/fonts/vwhead-light.woff') format('woff');
+  }
+
+  @font-face {
+    font-family: 'vw-text';
+    font-weight: 400;
+    font-display: swap;
+    src: url('https://www.volkswagen.fr/idhub/etc/clientlibs/vwa-ngw18/ngw18-frontend/clientlibs/statics/fonts/vwtext-regular.woff2') format('woff2'),
+    url('https://www.volkswagen.fr/idhub/etc/clientlibs/vwa-ngw18/ngw18-frontend/clientlibs/statics/fonts/vwtext-regular.woff') format('woff');
+  }
+
+  @font-face {
+    font-family: 'vw-text';
+    font-weight: 700;
+    font-display: swap;
+    src: url('https://www.volkswagen.fr/idhub/etc/clientlibs/vwa-ngw18/ngw18-frontend/clientlibs/statics/fonts/vwtext-bold.woff2') format('woff2'),
+    url('https://www.volkswagen.fr/idhub/etc/clientlibs/vwa-ngw18/ngw18-frontend/clientlibs/statics/fonts/vwtext-bold.woff') format('woff');
+  }
+
+  @font-face {
+    font-family: 'vw-head-ar';
+    font-weight: 700;
+    font-display: swap;
+    src: url('https://www.volkswagen.fr/idhub/etc/clientlibs/vwa-ngw18/ngw18-frontend/clientlibs/statics/fonts/HelveticaNeueArabicBD.woff') format('woff');
+  }
+
+  @font-face {
+    font-family: 'vw-text-ar';
+    font-weight: 400;
+    font-display: swap;
+    src: url('https://www.volkswagen.fr/idhub/etc/clientlibs/vwa-ngw18/ngw18-frontend/clientlibs/statics/fonts/HelveticaNeueArabicLT.woff') format('woff');
+  }
+
+  @font-face {
+    font-family: 'roboto-vi';
+    font-weight: 200;
+    font-display: swap;
+    src: url('https://www.volkswagen.fr/idhub/etc/clientlibs/vwa-ngw18/ngw18-frontend/clientlibs/statics/fonts/roboto-v20-vietnamese_latin-ext_latin-300.woff2') format('woff2'),
+    url('https://www.volkswagen.fr/idhub/etc/clientlibs/vwa-ngw18/ngw18-frontend/clientlibs/statics/fonts/roboto-v20-vietnamese_latin-ext_latin-300.woff') format('woff');
+  }
+  @font-face {
+    font-family: 'roboto-vi';
+    font-weight: 400;
+    font-display: swap;
+    src: url('https://www.volkswagen.fr/idhub/etc/clientlibs/vwa-ngw18/ngw18-frontend/clientlibs/statics/fonts/roboto-v20-vietnamese_latin-ext_latin-regular.woff2') format('woff2'),
+    url('https://www.volkswagen.fr/idhub/etc/clientlibs/vwa-ngw18/ngw18-frontend/clientlibs/statics/fonts/roboto-v20-vietnamese_latin-ext_latin-regular.woff') format('woff');
+  }
+  @font-face {
+    font-family: 'roboto-vi';
+    font-weight: 700;
+    font-display: swap;
+    src: url('https://www.volkswagen.fr/idhub/etc/clientlibs/vwa-ngw18/ngw18-frontend/clientlibs/statics/fonts/roboto-v20-vietnamese_latin-ext_latin-700.woff2') format('woff2'),
+    url('https://www.volkswagen.fr/idhub/etc/clientlibs/vwa-ngw18/ngw18-frontend/clientlibs/statics/fonts/roboto-v20-vietnamese_latin-ext_latin-700.woff') format('woff');
+  }
+
 .jJmmQf{color:#000000;margin:-0.11em 0 0.11em 0;font-family:var(--font-family-head,vw-head,Helvetica,Arial,sans-serif);font-weight:bold;font-size:var(--textappearances-headline200-fontsize);line-height:var(--textappearances-headline200-lineheight);-webkit-letter-spacing:var(--textappearances-headline200-letterspacing);-moz-letter-spacing:var(--textappearances-headline200-letterspacing);-ms-letter-spacing:var(--textappearances-headline200-letterspacing);letter-spacing:var(--textappearances-headline200-letterspacing);} .jJmmQf:lang(ko){word-break:keep-all;}.NlCcT{color:#000000;margin:-0.11em 0 0.11em 0;font-family:var(--font-family-text,vw-text,Helvetica,Arial,sans-serif);font-weight:normal;font-size:var(--textappearances-copy150-fontsize);line-height:var(--textappearances-copy150-lineheight);-webkit-letter-spacing:var(--textappearances-copy150-letterspacing);-moz-letter-spacing:var(--textappearances-copy150-letterspacing);-ms-letter-spacing:var(--textappearances-copy150-letterspacing);letter-spacing:var(--textappearances-copy150-letterspacing);} .NlCcT:lang(ko){word-break:keep-all;}.bCynGP{color:#000000;margin:-0.11em 0 0.11em 0;font-family:var(--font-family-text,vw-text,Helvetica,Arial,sans-serif);font-weight:normal;font-size:var(--textappearances-copy100-fontsize);line-height:var(--textappearances-copy100-lineheight);-webkit-letter-spacing:var(--textappearances-copy100-letterspacing);-moz-letter-spacing:var(--textappearances-copy100-letterspacing);-ms-letter-spacing:var(--textappearances-copy100-letterspacing);letter-spacing:var(--textappearances-copy100-letterspacing);} .bCynGP:lang(ko){word-break:keep-all;}.glXDic{color:#6A767D;margin:-0.11em 0 0.11em 0;font-family:var(--font-family-text,vw-text,Helvetica,Arial,sans-serif);font-weight:normal;font-size:var(--textappearances-copy150-fontsize);line-height:var(--textappearances-copy150-lineheight);-webkit-letter-spacing:var(--textappearances-copy150-letterspacing);-moz-letter-spacing:var(--textappearances-copy150-letterspacing);-ms-letter-spacing:var(--textappearances-copy150-letterspacing);letter-spacing:var(--textappearances-copy150-letterspacing);} .glXDic:lang(ko){word-break:keep-all;}
 /* sc-component-id: StyledLinkText-sc-12fkfup */
 .bPNfIu{position:relative;-webkit-text-decoration:underline;text-decoration:underline;text-underline-offset:0.2em;-webkit-text-decoration-thickness:1px;text-decoration-thickness:1px;-webkit-text-decoration:none;text-decoration:none;cursor:pointer;}
